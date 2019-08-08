@@ -5,5 +5,4 @@ mac network change
 
 실행방법
 1. 터미널 접속
-2. 아래명령어 실행.
-sh network_change.sh 
+2. 명령어 실행 : sh network_change.sh 
